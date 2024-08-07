@@ -7,7 +7,6 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure] (https://github.com/jameljones1/Azure-SOC)
 
-- <b>Python</b>
   
 
 <h2> 🤳 Connect with me:</h2>
